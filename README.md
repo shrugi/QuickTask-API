@@ -38,6 +38,10 @@ A simple Task Management REST API built with Spring Boot and MySQL.
   "priority": "HIGH"
 }
 ```
+## Live API
+Base URL: https://quicktask-api-production.up.railway.app
+
+Test it: https://quicktask-api-production.up.railway.app/tasks
 
 ## How to Run
 1. Clone the repo
