@@ -49,3 +49,28 @@ Test it: https://quicktask-api-production.up.railway.app/tasks
 3. Update `application.properties` with your MySQL credentials
 4. Run as Spring Boot App in STS
 5. Test APIs using Postman on `http://localhost:8080`
+
+
+---
+
+# TaskManager REST API - TODO
+
+## In Progress
+- [ ] JWT Authentication & Authorization
+- [ ] Login / Register endpoints
+- [ ] Token refresh logic
+
+## Pending
+- [ ] Task CRUD endpoints (Create, Read, Update, Delete)
+- [ ] Assign task to user
+- [ ] Filter tasks by status & priority
+- [ ] Due date validation
+
+## Testing
+- [ ] Postman collection setup
+- [ ] Test all secured endpoints with Bearer token
+
+## Future Enhancements
+- [ ] Email notification on task assignment
+- [ ] Pagination for task list
+- [ ] Role-based access (ADMIN / USER)
