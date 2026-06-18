@@ -17,7 +17,7 @@ A simple Task Management REST API built with Spring Boot and MySQL.
 - ✅ Update a task
 - ✅ Delete a task
 - ✅ Priority levels (HIGH, MEDIUM, LOW)
-- ✅ Exception Handling
+- ✅ Exception Handling (Global Exception Handler)
 
 ## API Endpoints
 
